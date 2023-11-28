@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2023-09-22T08:40:12">
+  <PeakList2D>
+    <PeakList2DHeader creator="lucas@Lucas-MacBook-Pro.local" date="2023-09-18T14:49:49" expNo="362" name="Phos_230822_b2_03_mut_HMQC" owner="lucas" procNo="1" source="/Users/lucas/Documents/UZH/4_jahr_HS_2023/ResearchProject_NMR/Data">
+      <PeakPickDetails># F2 peak picking range ( ppm )
+# 2 F1P=9.21, 2 F2P=8.52
+# F1 peak picking range ( ppm )
+# 1 F1P=124.9, 1 F2P=114.0
+# MI=0.02 (= 8.298827264E7), MAXI=1.0 (= 4.149413632E9)
+# PEAK RESOL.=1, INTERPOL. TYPE=NONE, DIAG. GAP=-1, MAX. # PEAKS=2147483647
+</PeakPickDetails>
+    </PeakList2DHeader>
+    <Peak2D F1="119.85938235314272" F2="8.849312916263079" intensity="1.23511552E8" type="0"/>
+    <Peak2D F1="118.45296968959637" F2="8.849312916263079" intensity="2.06049024E8" type="0"/>
+    <Peak2D F1="119.54293950384479" F2="8.978978910135922" intensity="2.5308928E8" type="0"/>
+    <Peak2D F1="119.47261887066747" F2="8.925587030305929" intensity="3.72205312E8" type="0"/>
+    <Peak2D F1="122.84800926317871" F2="8.544216460091683" intensity="1.402882816E9" type="0"/>
+  </PeakList2D>
+</PeakList>
