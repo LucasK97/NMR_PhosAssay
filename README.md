@@ -10,7 +10,7 @@ This File contains several scripts which should aid in the data processing of
 phosphorylation assays performed via NMR.
 
 The Workflow_Phos_Data_Processing.pdf file provides a step by step instruction 
-how to process the data in Topspind as well as in the two provided scripts.
+how to process the data in Topspin as well as in the two provided scripts.
 
 The scripts are provided as .py as well as .ipynb and can therefore be processed 
 in JupyterNotebook or other python environments.
